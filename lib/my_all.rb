@@ -8,6 +8,7 @@ def my_all?(collection)
     i += 1
   end
 
+  # check to see if the return values from yielding contains a false
   if return_value.include?(false)
     false
   else
