@@ -19,4 +19,4 @@ def my_all?(collection)
 end
 
 
-my_all?([1,2,3]) {|1| 1 < 2}
+# my_all?([1,2,3]) {|1| 1 < 2}
