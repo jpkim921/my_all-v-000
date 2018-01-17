@@ -1,5 +1,6 @@
 require 'pry'
 
+# this method is to recreate the #all? method manually
 def my_all?(collection)
   i = 0
   return_value = []
